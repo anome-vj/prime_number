@@ -7,7 +7,7 @@ for (i=min;i<=max;i++){
 
 if(util.isPrime(i)){
 
-primes.push(util.isPrime(i));
+primes.push(i);
 }
 }
 

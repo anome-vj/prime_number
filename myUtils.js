@@ -13,8 +13,9 @@
 				return false;
 			}
 			div++;	
-		}	 
-		 return i;
+		}
+		 
+		 return true;
 		
 	}
 	
